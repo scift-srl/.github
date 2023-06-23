@@ -1,3 +1,5 @@
+![Header image](https://github.com/scift-srl/.github/blob/main/assets/header.png)
+
 ## Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">
 We are Scift srl - Rise with digital! 
 
